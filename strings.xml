@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="new_game">Новая игра</string>
+    <string name="game_status_default">Нажмите \"Новая игра\" чтобы начать</string>
+    <string name="game_history">История игр:</string>
+    <string name="player_turn">Ваш ход (X)</string>
+    <string name="computer_turn">Ход компьютера (O)</string>
+    <string name="player_wins">Вы победили!</string>
+    <string name="computer_wins">Компьютер победил!</string>
+    <string name="game_draw">Ничья!</string>
+    <string name="max_streak">Максимальная серия побед: %d</string>
+</resources>
