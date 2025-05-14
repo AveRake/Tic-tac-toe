@@ -7,13 +7,3 @@ data class GameResult(
     val winner: String,
     val isPlayerWin: Boolean
 )
-
-
-//table
-import java.util.Date
-
-data class GameResult(
-    val date: Date,
-    val winner: String,
-    val isPlayerWin: Boolean
-)
